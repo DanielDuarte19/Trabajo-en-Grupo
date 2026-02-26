@@ -3,6 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
+        System.out.println("Daniel Andres Duarte Aguirre");
+        System.out.println("Mi hobies son escuchar musica, jugar videojuegos y dibujar");
+        System.out.println("No practico ningun deporte");
 
     }
 }
